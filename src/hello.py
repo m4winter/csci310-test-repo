@@ -1,3 +1,4 @@
+"""
 hello.py
 ====================================
 This is a quick sample script.
@@ -6,7 +7,7 @@ This is a quick sample script.
 """
 print("hello world")
 def something():
-"""
-This function does nothing.
-"""
-pass
+    """
+    This function does nothing.
+    """
+    pass
