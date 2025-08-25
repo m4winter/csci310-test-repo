@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+
+.DS_Store
+docs/make.bat
+docs/Makefile
+
 # Distribution / packaging
 .Python
 build/
